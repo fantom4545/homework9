@@ -1,11 +1,14 @@
 def test():
-    a=55
-    b=66
-    print(a,b)
+    a = 55
+    b = 66
+    print(a, b)
+
+
 test()
 
 
-def test2(a , b , c):
-    print(a , b , c)
+def test2(a, b, c):
+    print(a, b, c)
 
-test2(1, 2 , 3)
+
+test2(1, 2, 3)
